@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Herencia y polimorfismo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text.title">Esto es un ejemplo de herencia y polimorfismo</string>
+    <string name="text.title2">Esto es la segunda actividad</string>
+    <string name="button.next">Siguiente</string>
+    <string name="button.before">Anterior</string>
+
+    <string name="title_activity_second">SecondActivity</string>
+</resources>
